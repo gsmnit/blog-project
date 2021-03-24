@@ -1,0 +1,33 @@
+@import "config";
+@import "menu";
+
+
+
+
+header{
+    margin: 0;
+    padding: 0;
+    height: 10vh;
+    background :$sec2-color;
+    overflow: hidden;
+}
+
+/*main{
+    height: 60vh;
+    background-color:$sec4-color ;
+}*/
+
+/*footer{
+    height: 20vh;
+    background-color: $primary-color;
+}*/
+
+.logo img{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 20vw;
+    height: 15vh;
+    margin: 0;
+    padding: 0;
+}

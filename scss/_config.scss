@@ -1,0 +1,10 @@
+$primary-color : #88BF11;
+$sec1-color:#75A60D;
+$sec2-color:#467302;
+$sec3-color:#A3BF65;
+$sec4-color:#F2F2F2;
+
+
+@mixin easeOut {
+    transition: all 0.7s ease-out;
+}
